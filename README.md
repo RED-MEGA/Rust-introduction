@@ -8,6 +8,16 @@ Rust is a systems programming language that is fast, reliable, and safe. It is d
 Learn the fundamentals of Rust programming, including data types, variables, control flow, functions, and ownership.
 
  [https://doc.rust-lang.org/book/](https://doc.rust-lang.org/book/)
+ 
+1. Rust Programming Tutorial for Beginners by Derek Banas (YouTube)
+2. Rust for Systems Programmers by Steve Klabnik (YouTube)
+3. Rust Crash Course | Rust Programming Language Tutorial by FreeCodeCamp (YouTube)
+4. Rust Programming Language - Full Course by Caleb Curry (YouTube)
+5. Rust Programming Language Tutorial by Telusko (YouTube)
+6. Rust by Example (Official Rust documentation)
+7. Rust Book (Official Rust documentation)
+8. Rust Programming Language Course by Udemy (Udemy)
+9. Rust Programming Language by Coursera (Coursera)
 
 # Practice coding:
 
